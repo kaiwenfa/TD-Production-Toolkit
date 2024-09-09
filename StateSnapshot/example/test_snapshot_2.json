@@ -1,0 +1,250 @@
+{
+    "Bloomintensity": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "1.5",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Colorw": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "1.0",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Colorx": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "0.29999999999999993",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Colory": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "-0.5",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Colorz": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "0.3999999999999999",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Cue": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "True",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Cuepoint": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "15.0",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Dropdownmenu": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "File": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "C:/Program Files/Derivative/TouchDesigner/Samples/Map/Count.mov",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Fov": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "97.19999694824219",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Gain": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "1.2",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Height": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "2.5",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Highb": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "0.0",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Highg": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "0.45",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Highr": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "0.0",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Labelalignx": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "left",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Labelaligny": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "center",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Menunames": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "A B C D E F",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Play": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "True",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Push": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.BIND",
+        "constVal": "0.0",
+        "expressionVal": "",
+        "bindVal": "op('bindRef').par.const0value"
+    },
+    "Resolution1": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "1920",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Resolution2": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "1080",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Speed": {
+        "owner": "/project1/statefulComponent_1",
+        "isCustom": "True",
+        "mode": "ParMode.EXPRESSION",
+        "constVal": "1.0",
+        "expressionVal": "op('expressionRef')['speed']",
+        "bindVal": ""
+    },
+    "Text": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "someText",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Textcolorb": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "0.0",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Textcolorg": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "0.0",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Textcolorr": {
+        "owner": "/project1/statefulComponent_2",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "1.0",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Textfield": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Value": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "F",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Vector": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "",
+        "expressionVal": "",
+        "bindVal": ""
+    },
+    "Widgetlabel": {
+        "owner": "/project1/statefulComponent_3",
+        "isCustom": "True",
+        "mode": "ParMode.CONSTANT",
+        "constVal": "Drop Down Menu",
+        "expressionVal": "",
+        "bindVal": ""
+    }
+}
