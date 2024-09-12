@@ -1,0 +1,6467 @@
+{
+    "/project1/statefulComponent_1": {
+        "Bloomintensity": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.5",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Cue": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Cuepoint": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "15.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "File": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "C:/Program Files/Derivative/TouchDesigner/Samples/Map/Count.mov",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Gain": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.2",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Highb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Highg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.45",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Highr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Play": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Speed": {
+            "isCustom": "",
+            "mode": "ParMode.EXPRESSION",
+            "constVal": "1.0",
+            "expressionVal": "op('expressionRef')['speed']",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_3": {
+        "Colorw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Colorx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Colory": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "-0.5",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Colorz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.4",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Dropdownmenu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Labelalignx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "left",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Labelaligny": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "center",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Menunames": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "A B C D E F",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Text": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "This is a text field, some more text.",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Textfield": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Value": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "F",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Vector": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Widgetlabel": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "Drop Down Menu",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "align": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "verttb",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "alignallow": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "allow",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "alignmax": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "alignorder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "allowuishortcuts": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "anchordrag": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "anchors",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "aspect": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "bgalpha": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "bgcolorb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "bgcolorg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "bgcolorr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderaalpha": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderab": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderag": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderar": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderbalpha": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderbb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderbg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderbr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "borderover": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "bottomanchor": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "bottomborder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "bottomborderi": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "bottomoffset": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clickthrough": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "composite": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "over",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "constraincursor": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "crop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "cursor": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "pointer",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "disablealpha": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.5",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "disablecolorb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "disablecolorg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "disablecolorr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "display": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "dodisablecolor": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "drag": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "dragparent",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "dragdropcallbacks": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "dragscript": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "/sys/drag",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "drop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "dropparent",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "dropdestscript": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "dropscript": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "/sys/drop",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "droptypescript": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enable": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "fit": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "fixedaspect": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "h": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "300",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "helpdat": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./help",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "hfillweight": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "hmode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "fixed",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "horigin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "justifyh": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "justifymethod": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "group",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "justifyv": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "keepmemory": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "layer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "leftanchor": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "leftborder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "leftborderi": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "leftoffset": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "marginb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "marginl": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "marginr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "margint": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "mouserel": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "mousewheel": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "multitouch": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "mtouchparent",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "multrgb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "nodeview": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "default",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "offsetx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "offsety": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opacity": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "7",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "paneldragop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "phscrollbar": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "postoffsetx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "postoffsety": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pvscrollbar": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "repocomp": {
+            "isCustom": "",
+            "mode": "ParMode.EXPRESSION",
+            "constVal": "",
+            "expressionVal": "me",
+            "bindVal": ""
+        },
+        "reposition": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "repositionxmax": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "100.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "repositionxmin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "repositionymax": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "100.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "repositionymin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "resizeb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "resizecomp": {
+            "isCustom": "",
+            "mode": "ParMode.EXPRESSION",
+            "constVal": "",
+            "expressionVal": "me",
+            "bindVal": ""
+        },
+        "resizehmax": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "400.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "resizehmin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "5.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "resizel": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "resizer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "resizet": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "resizewmax": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "400.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "resizewmin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "5.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rightanchor": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rightborder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rightborderi": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rightoffset": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "scalex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "scaley": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "scrollbarthickness": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "10",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "scrolloverlay": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sizefromwindow": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "spacing": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "top": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "topanchor": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "topborder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "topborderi": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "topfill": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "topoffset": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "topsmoothness": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "linear",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "uvbuttonsleft": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "uvbuttonsmiddle": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "uvbuttonsright": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "vfillweight": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "vmode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "fixed",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "vorigin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "w": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "400",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "x": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "y": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_2": {
+        "File": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "C:/Program Files/Derivative/TouchDesigner/Samples/Map/CloudyOcean_2Kx1K_8bit.tif",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Fov": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "97.2",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Height": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "2.5",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Push": {
+            "isCustom": "",
+            "mode": "ParMode.BIND",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": "op('bindRef').par.const0value"
+        },
+        "Resolution1": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1920",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Resolution2": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1080",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Text": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "someText",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Textcolorb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Textcolorg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "Textcolorr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./render1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "4",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base1": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base2": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base3": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.EXPRESSION",
+            "constVal": "0.0",
+            "expressionVal": "op(\"lfo1\")[\"value\"]",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base4": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.EXPRESSION",
+            "constVal": "0.0",
+            "expressionVal": "op('lfo1')['value']",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base5": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.BIND",
+            "constVal": "0.0",
+            "expressionVal": "op('lfo1')['value']",
+            "bindVal": "parent().par.Cuepoint"
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base6": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base7": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base8": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base9": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/statefulComponent_1/base10": {
+        "Temperature": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "3",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/geo1": {
+        "bank": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "drawpriority": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "forwarddir": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "negz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancea": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceactive": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolormode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "replace",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolorop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolorpremult": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "premultinshader",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecountmode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "oplength",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancefirstrow": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "names",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceorder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "instanceworld",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoforward": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "negz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoorder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "rottoxform",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotv": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancery": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescaleu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescalev": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescalew": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexanisotropy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexcoordop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendv": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexfilter": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "mipmaplinear",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexindexop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexmode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "replace",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexs": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancety": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancev": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancew": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancing": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instrord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "insttexrord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "insttexxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lightmask": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lookat": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lookup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "on",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "material": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "nodeview": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "default",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "numinstances": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentobject": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentxformsrc": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "heirarchy",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pathorient": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pathsop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pcommit": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pickpriority": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pos": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "preset": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pry": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pscale": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ptx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pty": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ptz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "px": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pxform": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "py": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "render": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "roll": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ry": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "scale": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "tx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ty": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "tz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "xformmatrixop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "xord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/geo2": {
+        "bank": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "drawpriority": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "forwarddir": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "negz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancea": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceactive": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolormode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "replace",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolorop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolorpremult": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "premultinshader",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecountmode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "oplength",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancefirstrow": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "names",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceorder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "instanceworld",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoforward": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "negz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoorder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "rottoxform",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotv": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancery": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescaleu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescalev": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescalew": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexanisotropy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexcoordop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendv": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexfilter": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "mipmaplinear",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexindexop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexmode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "replace",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexs": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancety": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancev": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancew": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancing": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instrord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "insttexrord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "insttexxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lightmask": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lookat": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lookup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "on",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "material": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "nodeview": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "default",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "numinstances": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentobject": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentxformsrc": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "heirarchy",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pathorient": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pathsop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pcommit": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pickpriority": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pos": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "preset": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pry": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pscale": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ptx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pty": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ptz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "px": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pxform": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "py": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "render": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "roll": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ry": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "scale": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "tx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ty": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "tz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "xformmatrixop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "xord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    },
+    "/project1/geo3": {
+        "bank": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "clone": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "drawpriority": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloning": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enablecloningpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "enableexternaltoxpulse": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0name": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0object": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ext0promote": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "externaltox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "forwarddir": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "negz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instance0customz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancea": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceactive": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolormode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "replace",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolorop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecolorpremult": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "premultinshader",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancecountmode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "oplength",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancefirstrow": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "names",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceorder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "instanceworld",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancepz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoforward": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "negz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoorder": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "rottoxform",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottox": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerottoz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotupz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotv": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerotw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancery": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancerz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescaleu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescalev": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancescalew": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancesz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexanisotropy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "off",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexcoordop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendv": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexextendw": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "repeat",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexfilter": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "mipmaplinear",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexindexop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexmode": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "replace",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetexs": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancety": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancetz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instanceu": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancev": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancew": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instancing": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instrord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "insttexrord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "insttexxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "instxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0op": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "iop0shortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lightmask": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "loadondemand": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lookat": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "lookup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "on",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "material": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "nodeview": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "default",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "numinstances": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "opviewer": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "./out1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pageindex": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentobject": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentshortcut": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "parentxformsrc": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "heirarchy",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pathorient": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pathsop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pcommit": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pickpriority": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pos": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ppz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "preset": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pry": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "prz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pscale": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "psz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ptx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pty": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ptz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "px": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pxform": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pxord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "py": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "pz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reinitextensions": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadbuiltin": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "reloadcustom": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "relpath": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "inherit",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "render": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "roll": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "xyz",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ry": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "rz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "savebackup": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "scale": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "subcompname": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "sz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "tx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "ty": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "tz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upx": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upy": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "upz": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "0.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorb": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorg": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "wcolorr": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "1.0",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "xformmatrixop": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "",
+            "expressionVal": "",
+            "bindVal": ""
+        },
+        "xord": {
+            "isCustom": "",
+            "mode": "ParMode.CONSTANT",
+            "constVal": "srt",
+            "expressionVal": "",
+            "bindVal": ""
+        }
+    }
+}
